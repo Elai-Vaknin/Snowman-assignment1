@@ -11,3 +11,14 @@ X(LNR)Y</br>
 X(TTT)Y</br>
  (BBB)</br>
 </center>
+
+H is for hat.
+X is for left arm.
+Y is for right arm.
+L is for left eye.
+R is for right eye.
+N is for nose.
+T is for torso.
+B is for base.
+
+
