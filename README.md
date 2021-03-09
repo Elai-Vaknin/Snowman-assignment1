@@ -4,21 +4,19 @@ Create a snowman ASCII art using 8 digits code.
 Each digit represents a part in the snowman body with 4 options.
 
 The structure of the Snowman:</br>
-<center>
  HHHHH</br>
  HHHHH</br>
 X(LNR)Y</br>
 X(TTT)Y</br>
  (BBB)</br>
-</center>
-
-H is for hat.
-X is for left arm.
-Y is for right arm.
-L is for left eye.
-R is for right eye.
-N is for nose.
-T is for torso.
-B is for base.
+</br>
+H is for hat.</br>
+X is for left arm.</br>
+Y is for right arm.</br>
+L is for left eye.</br>
+R is for right eye.</br>
+N is for nose.</br>
+T is for torso.</br>
+B is for base.</br>
 
 
